@@ -49,28 +49,28 @@
 			"type": "email",
 			"value": "admin@yxmit.top",
 			"label": "",
-			"order": 1
+			"order": 4
 		},
 		{
 			"id": "github",
 			"type": "qq",
 			"value": "361794609",
 			"label": "Github",
-			"order": 2
+			"order": 3
 		},
 		{
 			"id": "juejin",
 			"type": "wechat",
 			"value": "/images/social-buttons/2989af3d55de02c4.png",
 			"label": "稀土掘金",
-			"order": 3
+			"order": 2
 		},
 		{
 			"id": "button-1771336429101",
 			"type": "link",
 			"value": "https://www.yxmmc.fun",
 			"label": "MC悦星明",
-			"order": 4
+			"order": 1
 		}
 	],
 	"clockShowSeconds": true,
