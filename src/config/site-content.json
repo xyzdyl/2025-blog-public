@@ -52,17 +52,17 @@
 			"order": 1
 		},
 		{
-			"id": "button-1771336429101",
-			"type": "link",
-			"value": "https://www.yxmmc.fun",
-			"label": "MC悦星明服务器",
-			"order": 2
-		},
-		{
 			"id": "juejin",
 			"type": "wechat",
 			"value": "/images/social-buttons/2989af3d55de02c4.png",
 			"label": "稀土掘金",
+			"order": 2
+		},
+		{
+			"id": "button-1771336429101",
+			"type": "link",
+			"value": "https://www.yxmmc.fun",
+			"label": "MC悦星明服务器",
 			"order": 3
 		},
 		{
