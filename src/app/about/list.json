@@ -1,5 +1,5 @@
 {
 	"title": "关于本站",
-	"description": "一个基于 Github 的现代化博客系统",
-	"content": "📦网站基于 Github 仓库完全存储，所有内容版本可控\n\n🚀无后端，无 serverless function，纯静态站点\n\n✏️文章通过可视化 UI 直接编辑并提交到 Github 仓库\n\n🔑所有用户都可以编辑，提交需要 Owner 的 Private Key\n\n## 技术栈\n\n- Next.js\n- React\n- TypeScript\n- Tailwind CSS\n- Motion\n- Github API"
+	"description": "美味烤鸭の雪屋，不定时更新",
+	"content": "## 站长\n\n- 美味烤鸭\n\n- 出生于2012年\n\n- 在读初中生\n\n- 家住广东潮州\n\n##网站由来\n\n2026年2月16日，站长烤鸭诗兴大发，花费15RMB巨款买下了这个top域名，并上B站搜索“Cloudflare Blog”。\n搜索结果第一个为“2025最新博客”，点了进去，跟着教程一步步进行操作。\n虽然网站在2026年2月16日已经搭建完成，但是站长烤鸭在2026年2月17日00:00时才宣布网站建成。"
 }
