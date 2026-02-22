@@ -242,5 +242,15 @@
 			"工具"
 		],
 		"stars": 4
+	},
+	{
+		"name": "NameBeta",
+		"logo": "https://th.bing.com/th/id/ODF.0KLva9D8MO453cFiIqy49w?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+		"url": "https://namebeta.com/",
+		"description": "NameBeta 是一款面向个人与企业的一站式域名搜索、比价与管理工具，主打极速查询、跨平台比价、AI 创意生成，让域名注册更高效、透明、省钱。",
+		"tags": [
+			"工具"
+		],
+		"stars": 4
 	}
 ]
